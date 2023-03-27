@@ -7,3 +7,12 @@ Ans. 1) Single host deployment - This means you can run everything on a single p
      3) Security - All the containers are isolated from each other, reducing the threat landscape.
      4) High productivity - Docker Compose reduces the time it takes to perform tasks.
 
+Q3. Basic Commands in Docker Compose?
+Ans. Start all services  # Docker Compose up
+     Stop all services   # Docker Compose down
+     Install Docker Compose using pip # pip install -U Docker-compose
+     Check the version of Docker Compose # Docker-compose-v
+     Run Docker Compose file # Docker-compose up -d
+     List the entire process # Docker ps
+     Scale a service  # Docker Compose up -d -scale
+     Use YAML files to configure application services # Docker Compose.yml
