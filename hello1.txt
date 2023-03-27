@@ -16,3 +16,7 @@ Ans. Start all services  # Docker Compose up
      List the entire process # Docker ps
      Scale a service  # Docker Compose up -d -scale
      Use YAML files to configure application services # Docker Compose.yml
+
+Q4. What is Docker Swarm?
+Ans. Docker Swarm is an orchestration management tool that runs on Docker applications. It helps end-users in creating and deploying a cluster of Docker nodes.
+     Each node of a Docker Swarm is a Docker daemon, and all Docker daemons interact using the Docker API. Each container within the Swarm can be deployed and acces     sed by nodes of the same cluster. 
