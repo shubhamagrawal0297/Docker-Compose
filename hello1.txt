@@ -1,0 +1,9 @@
+Q1. what is docker compose?
+Ans. Docker Compose is a tool that was developed to help define and share multi-container applications. With Compose, we can create a YAML file to define the services and with a single command, can spin everything up or tear it all down.
+
+Q2. what is yhe majr benifits of docker compose?
+Ans. 1) Single host deployment - This means you can run everything on a single piece of hardware.
+     2) Quick and easy configuration - Due to YAML scripts.
+     3) Security - All the containers are isolated from each other, reducing the threat landscape.
+     4) High productivity - Docker Compose reduces the time it takes to perform tasks.
+
